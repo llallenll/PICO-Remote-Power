@@ -20,6 +20,8 @@ Remotely Power on and off your computer with a Raspberry PI Pico
 - In GP6 solder a jumper cable
 - In GND (above GP10) solder a jumper cable
 
+![uXQ-tEmN](https://github.com/trycehuffman/PICO-Remote-Power/assets/45830492/f81abb6b-9e1b-4290-833b-2c32e74e3813)
+
 ## PC Setup
 - On the PW Button + place the GP6 cable
 - On the PW Button - place the GND cable
