@@ -43,3 +43,9 @@ Remotely Power on and off your computer with a Raspberry PI Pico
 - Create a new shortcut called Turn Computer Off
 - Add an action called Get Contents of URL
 - In the URL field insert http://10.0.0.15/led_off where 10.0.0.15 is your device IP
+
+## Lighting Information
+- Flashing GP25 (Board Light) the device is connecting to the internet
+- Solid GP25 (Board Light) the device has connected to the internet
+- Flash then solid GP2 light means computer is powering on 
+- GP2 light off then device is powered off
